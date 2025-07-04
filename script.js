@@ -3,7 +3,7 @@ document.getElementById('yesBtn').onclick = function() {
 };
 
 document.getElementById('noBtn').onclick = function() {
-  alert('Không được chọn không? 😢');
+  alert('Không được chọn không 😢');
 };
 
 document.getElementById('seriousBtn').onclick = function() {
